@@ -1,4 +1,4 @@
-# LineageOS 20 Installation Guide for Redmi Note 10 2022 (selene) - Linux Only
+# LineageOS 20 Installation Guide for Redmi 10 2022 (selene) - Linux Only
 
 [![Device](https://img.shields.io/badge/Device-Redmi%20Note%2010%202022-orange)](https://www.gsmarena.com/xiaomi_redmi_note_10_2022-11371.php)
 [![SoC](https://img.shields.io/badge/SoC-MediaTek%20Helio%20G88-blue)](https://www.mediatek.com/products/smartphones/mediatek-helio-g88)
